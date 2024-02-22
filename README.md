@@ -8,6 +8,8 @@ The program makes use of OpenMP for its parallelization, and so requires the -f 
 
 If I were to redo this program, I would provide more documentation and do some different workarounds for stalemates.
 
+The two DOCX files included consist of the program's requirements and the final writeup accompanying the submitted project.
+
 ## Chopsticks
 
 Chopsticks is a game for two players played with the hands. Each player extends two hands, with one finger on each extended likewise. The players take turns tapping each other's hands together, and each tap adds the number of fingers extended on the tapping hand to the number of fingers extended on the hand tapped. A hand with the maximum amount of fingers extended is eliminated from the game. Once both of a player's hands are eliminated, they lose.
