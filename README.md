@@ -1,6 +1,4 @@
-# ----- Chopsticks Solver -----
-High-Performance Computing Final Assignment
-Last updated: February 7, 2024
+# Chopsticks Solver
 
 This program was written by myself and a friend in late 2022, with the goal of solving the children's game of Chopsticks (Description below). To achieve this in a reasonable amount of time, we parallelized the program, drawing upon knowledge gained through the course, as well as organizing the data using tree structures for easy identification and pruning of game states.
 
